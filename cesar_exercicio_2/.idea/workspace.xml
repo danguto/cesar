@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b134263f-ad1d-41dd-b16f-5008ec6c3e71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cesar_exercicio_1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cesar_exercicio_1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cesar_exercicio_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cesar_exercicio_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cesar_exercicio_1/src/com/daniel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cesar_exercicio_1/src/com/daniel/Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cesar_exercicio_1/src/com/daniel/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cesar_exercicio_1/src/com/daniel/Replace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/daniel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/daniel/JumbledWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cesar_exercicio_3" />
   </component>
   <component name="RunManager">
     <configuration name="JumbledWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -97,8 +93,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587426922200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587426922200" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1587324341636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
